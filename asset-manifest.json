@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cv-christian-boissy/static/css/main.df6a25d1.css",
+    "main.js": "/cv-christian-boissy/static/js/main.32ebfb73.js",
+    "index.html": "/cv-christian-boissy/index.html",
+    "main.df6a25d1.css.map": "/cv-christian-boissy/static/css/main.df6a25d1.css.map",
+    "main.32ebfb73.js.map": "/cv-christian-boissy/static/js/main.32ebfb73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6a25d1.css",
+    "static/js/main.32ebfb73.js"
+  ]
+}
