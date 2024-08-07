@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cv-christian-boissy/static/css/main.4403a47e.css",
-    "main.js": "/cv-christian-boissy/static/js/main.a0200090.js",
+    "main.css": "/cv-christian-boissy/static/css/main.c8720fe1.css",
+    "main.js": "/cv-christian-boissy/static/js/main.dec82479.js",
     "index.html": "/cv-christian-boissy/index.html",
-    "main.4403a47e.css.map": "/cv-christian-boissy/static/css/main.4403a47e.css.map",
-    "main.a0200090.js.map": "/cv-christian-boissy/static/js/main.a0200090.js.map"
+    "main.c8720fe1.css.map": "/cv-christian-boissy/static/css/main.c8720fe1.css.map",
+    "main.dec82479.js.map": "/cv-christian-boissy/static/js/main.dec82479.js.map"
   },
   "entrypoints": [
-    "static/css/main.4403a47e.css",
-    "static/js/main.a0200090.js"
+    "static/css/main.c8720fe1.css",
+    "static/js/main.dec82479.js"
   ]
 }
