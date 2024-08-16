@@ -27,22 +27,18 @@ const Sidebar = () => {
         <a href="mailto:boissychristian@gmail.com" onClick={handleEmailClick}>boissychristian@gmail.com</a><br />
         <a href="https://linkedin.com/in/christian-boissy-272b68181" target="_blank" rel="noopener noreferrer" onClick={handleLinkedInClick}>
           linkedin.com/in/christian-boissy-272b68181
-          <p>Permis B - Véhicule</p>
         </a>
+        <p>Permis B - Véhicule</p>
       </address>
       <h2>Compétences professionnelles et linguistiques</h2>
       <ul>
         <li>
-          <h3>Communication multilingue</h3>
-          <span>Maîtrise du français, Anglais scolaire.</span>
+          <h3>Communication lingustique</h3>
+          <span>Maîtrise du français.</span>
         </li>
       </ul>
       <h2>Logiciel et environnements</h2>
       <ul>
-        <li>
-          <h3>Microsoft Office Suite</h3>
-          <span>Utilisation d'Excel, PowerPoint, et Word pour la gestion de données, la présentation d'informations et la documentation.</span>
-        </li>
         <li>
           <h3>Environnements de développement</h3>
           <span>Maîtrise de Visual Studio Code pour le développement de logiciels.</span>
